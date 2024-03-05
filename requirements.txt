@@ -1,0 +1,6 @@
+pyqt5
+setuptools
+tzdata
+wheel
+pillow
+numpy

@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>folder.png</file>
+    <file>Back.png</file>
+    <file>box-select.png</file>
+    <file>brush.png</file>
+    <file>circle-dashed.png</file>
+    <file>crop.png</file>
+    <file>cursorBtn.png</file>
+    <file>droplet.png</file>
+    <file>eraser.png</file>
+    <file>folder.png</file>
+    <file>new.png</file>
+    <file>Next.png</file>
+    <file>refresh-cw.png</file>
+    <file>T.png</file>
+  </qresource>
+</RCC>
