@@ -8,7 +8,7 @@
 1) **Сделайте клон репозитория:**
 
     ```bash
-    git clone https://github.com/Serovvans/NeuroMusic.git
+    git clone https://github.com/Dianochka-L/ImageAI.git
     ```
 
 2) **Создайте и активируйте виртуальное окружение Anaconda в дириктории вашего проекта:**
